@@ -1,5 +1,22 @@
 # Changelog
 
+## Mocked Streams 3.2
+
+* Added support for Apache Kafka 2.1.1
+* Thanks Matteo Gazzetta
+
+## Mocked Streams 3.1
+
+* Added support for Scala DSL in topology method 
+* Java DSL is deprecated in topology method
+* Thanks Michal Dziemianko for migrating to Scala DSL 
+
+## Mocked Streams 2.2
+
+* Added compatibility with Apache Kafka 2.1 
+* Added Mateusz Owczarek to contributors
+* Thanks Mateusz for the PR to make it Apache Kafka 2.1 compatible
+
 ## Mocked Streams 2.1
 
 * Added .inputWithTime to allow custom timestamps 
